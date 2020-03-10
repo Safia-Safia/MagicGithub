@@ -1,4 +1,4 @@
-# MagicGithub
+# MagicGithub (OpenClassrooms)
 Link for the app':
 
-https://github.com/Safia-Safia/MagicGithub
+https://openclassrooms.com/fr/projects/604/assignment
